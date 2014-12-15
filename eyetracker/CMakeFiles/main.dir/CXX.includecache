@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/josh/git/random/eyetracker/main.cpp
+opencv2/opencv.hpp
+/home/josh/git/random/eyetracker/opencv2/opencv.hpp
+opencv2/nonfree/features2d.hpp
+/home/josh/git/random/eyetracker/opencv2/nonfree/features2d.hpp
+vector
+-
+
